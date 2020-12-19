@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+
+.main {
+  display: flex;
+  flex-flow: row wrap;
+  width: 100vw;
+  height: 100vh;
+}
+
+.cover {
+  flex: 0 0 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media(min-width: 720px) {
+  .main {
+    flex-direction: row;
+  }
+
+  .cover {
+    flex: 1 0 auto;
+    background-position: top;
+    background-size: cover;
+    filter: grayscale(1);
+  }
+
+  .cover:hover {
+    background-position: center;
+    background-size: contain;
+    filter: grayscale(0);
+  }
+}
