@@ -11,7 +11,7 @@
     <style>
       body {
         margin: 0;
-        background-color: black;
+        background-color: white;
       }
 
       .main {
@@ -23,23 +23,27 @@
 
       .cover {
         flex: 0 0 50%;
-        background-position: top;
-        background-size: cover;
-        filter: grayscale(1);
-        transition: .5s filter linear;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
       }
 
-      .cover:hover {
-        filter: grayscale(0);
-      }
-
-      @media(min-width: 640px) {
+      @media(min-width: 720px) {
         .main {
           flex-direction: row;
         }
 
         .cover {
           flex: 1 0 auto;
+          background-position: top;
+          background-size: cover;
+          filter: grayscale(1);
+        }
+
+        .cover:hover {
+          background-position: center;
+          background-size: contain;
+          filter: grayscale(0);
         }
       }
     </style>
