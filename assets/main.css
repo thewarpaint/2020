@@ -35,3 +35,20 @@ body {
     filter: grayscale(0);
   }
 }
+
+.nav-link {
+  display: block;
+  position: absolute;
+  top: calc(50% - 32px);
+  height: 64px;
+  width: 48px;
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.nav-link--prev {
+  left: 0;
+}
+
+.nav-link--next {
+  right: 0;
+}
