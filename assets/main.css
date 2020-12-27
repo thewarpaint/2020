@@ -43,7 +43,7 @@ body {
   top: 0;
   height: 64px;
   width: 100%;
-  background-color: rgba(0, 0, 0, .5);
+  background-color: rgba(0, 0, 0, .625);
 }
 
 .nav-link {
@@ -53,6 +53,10 @@ body {
   font-size: 16px;
   text-decoration: none;
   text-align: center;
+}
+
+.nav-link:hover {
+  background-color: black;
 }
 
 .nav-link--prev {
