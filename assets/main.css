@@ -36,19 +36,29 @@ body {
   }
 }
 
-.nav-link {
-  display: block;
-  position: absolute;
-  top: calc(50% - 32px);
+.nav {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
   height: 64px;
-  width: 48px;
+  width: 100%;
   background-color: rgba(0, 0, 0, .5);
 }
 
+.nav-link {
+  line-height: 64px;
+  width: 64px;
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+}
+
 .nav-link--prev {
-  left: 0;
+  border-right: 1px solid white;
 }
 
 .nav-link--next {
-  right: 0;
+  border-left: 1px solid white;
 }
