@@ -1,0 +1,38 @@
+"2020-01-01":
+  title: "2020: enero 1"
+  description: "Las portadas de los periódicos el 1 de enero de 2020"
+  prevLink: "#"
+  nextLink: "/2020/01/02"
+  covers:
+    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-01"
+      imageUrl: "/assets/images/reforma/2020-01-01.jpg"
+    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-01"
+      imageUrl: "/assets/images/excelsior/2020-01-01.jpg"
+"2020-01-02":
+  title: "2020: enero 2"
+  description: "Las portadas de los periódicos el 2 de enero de 2020"
+  prevLink: "/2020/01/01"
+  nextLink: "/2020/01/03"
+  covers:
+    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-02"
+      imageUrl: "/assets/images/el-universal/2020-01-02.jpg"
+    - link: "https://www.jornada.com.mx/2020/01/02/portada.pdf"
+      imageUrl: "/assets/images/la-jornada/2020-01-02.jpg"
+    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-02"
+      imageUrl: "/assets/images/reforma/2020-01-02.jpg"
+    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-02"
+      imageUrl: "/assets/images/excelsior/2020-01-02.jpg"
+"2020-03-31":
+  title: "2020: marzo 31"
+  description: "Las portadas de los periódicos el 31 de marzo de 2020"
+  prevLink: "/2020/03/30"
+  nextLink: "/2020/01/04"
+  covers:
+    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-03-31"
+      imageUrl: "/assets/images/el-universal/2020-03-31.jpg"
+    - link: "https://www.jornada.com.mx/2020/03/31/portada.pdf"
+      imageUrl: "/assets/images/la-jornada/2020-03-31.jpg"
+    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-03-31"
+      imageUrl: "/assets/images/milenio/2020-03-31.jpg"
+    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-03-31"
+      imageUrl: "/assets/images/reforma/2020-03-31.jpg"

@@ -1,17 +1,16 @@
 ---
 permalink: /2020/01/02
 ---
-{%- assign title = "2020: enero 2" -%}
-{%- assign description = "Las portadas de los periódicos el 2 de enero de 2020" -%}
+{%- assign currentDay = site.data.days["2020-01-02"] -%}
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="title" content="{{ title }}">
-    <meta name="description" content="{{ description }}">
+    <meta name="title" content="{{ currentDay.title }}">
+    <meta name="description" content="{{ currentDay.description }}">
 
-    <title>{{ title }} - {{ description }}</title>
+    <title>{{ currentDay.title }} - {{ currentDay.description }}</title>
 
     <link
       href="/assets/main.css"
@@ -21,42 +20,30 @@ permalink: /2020/01/02
 
   <body>
     <div class="main">
+      {% for cover in currentDay.covers %}
       <a
         class="cover"
-        href="https://tar.mx/periodicos-mexico/?fecha=2020-01-02"
-        style="background-image: url('/assets/images/el-universal/2020-01-02.jpg')"
+        href="{{ cover.link }}"
+        style="background-image: url('{{ cover.imageUrl }}')"
       ></a>
-      <a
-        class="cover"
-        href="https://www.jornada.com.mx/2020/01/02/portada.pdf"
-        style="background-image: url('/assets/images/la-jornada/2020-01-02.jpg')"
-      ></a>
-      <a
-        class="cover"
-        href="https://tar.mx/periodicos-mexico/?fecha=2020-01-02"
-        style="background-image: url('/assets/images/reforma/2020-01-02.jpg')"
-      ></a>
-      <a
-        class="cover"
-        href="https://tar.mx/periodicos-mexico/?fecha=2020-01-02"
-        style="background-image: url('/assets/images/excelsior/2020-01-02.jpg')"
-      ></a>
+      {% endfor %}
     </div>
 
     <nav
       class="nav"
     >
       <a
-        href="/2020/01/01"
+        href="{{ currentDay.prevLink }}"
         class="nav-link nav-link--prev"
       >
         ←
       </a>
+
       <a
-      href="/2020/01/03"
+        href="{{ currentDay.nextLink }}"
         class="nav-link nav-link--next"
       >
-      →
+        →
       </a>
     </nav>
   </body>
