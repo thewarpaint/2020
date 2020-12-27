@@ -1,6 +1,7 @@
 "2020-01-01":
   title: "2020: enero 1"
   description: "Las portadas de los periódicos el 1 de enero de 2020"
+  dayString: "1 de enero"
   prevLink: "#"
   nextLink: "/2020/01/02"
   covers:
@@ -11,6 +12,7 @@
 "2020-01-02":
   title: "2020: enero 2"
   description: "Las portadas de los periódicos el 2 de enero de 2020"
+  dayString: "2 de enero"
   prevLink: "/2020/01/01"
   nextLink: "/2020/01/03"
   covers:
@@ -25,6 +27,7 @@
 "2020-03-31":
   title: "2020: marzo 31"
   description: "Las portadas de los periódicos el 31 de marzo de 2020"
+  dayString: "31 de marzo"
   prevLink: "/2020/03/30"
   nextLink: "/2020/01/04"
   covers:
