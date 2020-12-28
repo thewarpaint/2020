@@ -15,6 +15,7 @@
   },
   "homepage": "https://dosmilveinte.mx",
   "dependencies": {
+    "@slack/web-api": "5.14.0",
     "js-yaml": "3.14.1"
   }
 }
