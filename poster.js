@@ -7,13 +7,12 @@ const {
 } = process.env;
 
 const daysPath = './_data/days.yml';
-// TODO: Retrieve from a file and update after posting
-const currentDate = '2020-01-01';
 const conversationId = 'C01GZTLES1J';
 const webClient = new WebClient(SLACK_TOKEN);
 const homepage = 'https://dosmilveinte.mx';
 
 async function main() {
+  const currentDate = getCurrentDate();
   const daysData = getDaysData();
   const currentDateData = daysData[currentDate];
 
@@ -22,6 +21,14 @@ async function main() {
   currentDateData.covers.forEach(async (cover) => {
     await postCover(cover);
   });
+}
+
+function getCurrentDate() {
+  // Good enough way of getting the current date for GMT-6
+  const offset = -6 * 60 * 60 * 1000;
+  const mexicoCityDate = new Date(new Date().getTime() + offset);
+
+  return mexicoCityDate.toISOString().substring(0, 10);
 }
 
 function getDaysData() {
