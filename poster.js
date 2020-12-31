@@ -7,6 +7,7 @@ const {
 } = process.env;
 
 const daysPath = './_data/days.yml';
+// #2020-dev is 'C01HD1UC2NT'
 const conversationId = 'C01GZTLES1J';
 const webClient = new WebClient(SLACK_TOKEN);
 const homepage = 'https://dosmilveinte.mx';
