@@ -16,6 +16,11 @@ async function main() {
   const daysData = getDaysData();
   const currentDateData = daysData[currentDate];
 
+  if (!currentDateData) {
+    console.error(`No data available for date=${currentDate}`);
+    return;
+  }
+
   await postPageLink(currentDate);
 
   currentDateData.covers.forEach(async (cover) => {
