@@ -34,7 +34,7 @@ function getCurrentDate() {
   const offset = -6 * 60 * 60 * 1000;
   const mexicoCityDate = new Date(new Date().getTime() + offset);
 
-  return mexicoCityDate.toISOString().substring(0, 10);
+  return mexicoCityDate.toISOString().substring(0, 10).replace('2021', '2020');
 }
 
 function getDaysData() {
