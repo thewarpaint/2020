@@ -1,6 +1,6 @@
 "2020-01-01":
   title: "2020: enero 1"
-  description: "Las portadas de los periódicos el 1 de enero de 2020"
+  description: "Las portadas de los periódicos mexicanos el 1 de enero de 2020"
   dayString: "1 de enero"
   prevLink: "#"
   nextLink: "/2020/01/02"
@@ -11,7 +11,7 @@
       imageUrl: "/assets/images/excelsior/2020-01-01.jpg"
 "2020-01-02":
   title: "2020: enero 2"
-  description: "Las portadas de los periódicos el 2 de enero de 2020"
+  description: "Las portadas de los periódicos mexicanos el 2 de enero de 2020"
   dayString: "2 de enero"
   prevLink: "/2020/01/01"
   nextLink: "/2020/01/03"
@@ -26,7 +26,7 @@
       imageUrl: "/assets/images/excelsior/2020-01-02.jpg"
 "2020-01-03":
   title: "2020: enero 3"
-  description: "Las portadas de los periódicos el 3 de enero de 2020"
+  description: "Las portadas de los periódicos mexicanos el 3 de enero de 2020"
   dayString: "3 de enero"
   prevLink: "/2020/01/02"
   nextLink: "/2020/01/04"
@@ -41,7 +41,7 @@
       imageUrl: "/assets/images/excelsior/2020-01-03.jpg"
 "2020-01-04":
   title: "2020: enero 4"
-  description: "Las portadas de los periódicos el 4 de enero de 2020"
+  description: "Las portadas de los periódicos mexicanos el 4 de enero de 2020"
   dayString: "4 de enero"
   prevLink: "/2020/01/03"
   nextLink: "/2020/01/05"
@@ -56,7 +56,7 @@
       imageUrl: "/assets/images/excelsior/2020-01-04.jpg"
 "2020-01-05":
   title: "2020: enero 5"
-  description: "Las portadas de los periódicos el 5 de enero de 2020"
+  description: "Las portadas de los periódicos mexicanos el 5 de enero de 2020"
   dayString: "5 de enero"
   prevLink: "/2020/01/04"
   nextLink: "/2020/01/06"
@@ -69,7 +69,7 @@
       imageUrl: "/assets/images/excelsior/2020-01-05.jpg"
 "2020-01-06":
   title: "2020: enero 6"
-  description: "Las portadas de los periódicos el 6 de enero de 2020"
+  description: "Las portadas de los periódicos mexicanos el 6 de enero de 2020"
   dayString: "6 de enero"
   prevLink: "/2020/01/05"
   nextLink: "/2020/01/07"
@@ -84,7 +84,7 @@
       imageUrl: "/assets/images/excelsior/2020-01-06.jpg"
 "2020-01-07":
   title: "2020: enero 7"
-  description: "Las portadas de los periódicos el 7 de enero de 2020"
+  description: "Las portadas de los periódicos mexicanos el 7 de enero de 2020"
   dayString: "7 de enero"
   prevLink: "/2020/01/06"
   nextLink: "/2020/01/08"
@@ -99,7 +99,7 @@
       imageUrl: "/assets/images/excelsior/2020-01-07.jpg"
 "2020-03-31":
   title: "2020: marzo 31"
-  description: "Las portadas de los periódicos el 31 de marzo de 2020"
+  description: "Las portadas de los periódicos mexicanos el 31 de marzo de 2020"
   dayString: "31 de marzo"
   prevLink: "/2020/03/30"
   nextLink: "/2020/01/04"
