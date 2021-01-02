@@ -16,7 +16,7 @@
   prevLink: "/2020/01/01"
   nextLink: "/2020/01/03"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-02"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/02/eu020120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-02.jpg"
     - link: "https://www.jornada.com.mx/2020/01/02/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-02.jpg"
@@ -31,7 +31,7 @@
   prevLink: "/2020/01/02"
   nextLink: "/2020/01/04"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-03"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/03/eu030120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-03.jpg"
     - link: "https://www.jornada.com.mx/2020/01/03/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-03.jpg"
@@ -46,7 +46,7 @@
   prevLink: "/2020/01/03"
   nextLink: "/2020/01/05"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-04"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/04/eu040120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-04.jpg"
     - link: "https://www.jornada.com.mx/2020/01/04/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-04.jpg"
@@ -74,7 +74,7 @@
   prevLink: "/2020/01/05"
   nextLink: "/2020/01/07"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-06"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/06/eu060120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-06.jpg"
     - link: "https://www.jornada.com.mx/2020/01/06/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-06.jpg"
@@ -89,7 +89,7 @@
   prevLink: "/2020/01/06"
   nextLink: "/2020/01/08"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-07"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/07/eu070120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-07.jpg"
     - link: "https://www.jornada.com.mx/2020/01/07/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-07.jpg"
@@ -104,7 +104,7 @@
   prevLink: "/2020/01/07"
   nextLink: "/2020/01/09"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-08"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/08/eu080120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-08.jpg"
     - link: "https://www.jornada.com.mx/2020/01/08/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-08.jpg"
@@ -119,7 +119,7 @@
   prevLink: "/2020/01/08"
   nextLink: "/2020/01/10"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-09"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/09/eu090120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-09.jpg"
     - link: "https://www.jornada.com.mx/2020/01/09/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-09.jpg"
@@ -134,7 +134,7 @@
   prevLink: "/2020/01/09"
   nextLink: "/2020/01/11"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-10"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/10/eu100120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-10.jpg"
     - link: "https://www.jornada.com.mx/2020/01/10/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-10.jpg"
@@ -149,7 +149,7 @@
   prevLink: "/2020/01/10"
   nextLink: "/2020/01/12"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-11"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/11/eu110120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-11.jpg"
     - link: "https://www.jornada.com.mx/2020/01/11/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-11.jpg"
@@ -164,7 +164,7 @@
   prevLink: "/2020/01/11"
   nextLink: "/2020/01/13"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-12"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/12/eu120120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-12.jpg"
     - link: "https://www.jornada.com.mx/2020/01/12/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-12.jpg"
@@ -179,7 +179,7 @@
   prevLink: "/2020/01/12"
   nextLink: "/2020/01/14"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-13"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/13/eu130120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-13.jpg"
     - link: "https://www.jornada.com.mx/2020/01/13/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-13.jpg"
@@ -194,7 +194,7 @@
   prevLink: "/2020/01/13"
   nextLink: "/2020/01/15"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-14"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/14/eu140120_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-01-14.jpg"
     - link: "https://www.jornada.com.mx/2020/01/14/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-01-14.jpg"
@@ -209,7 +209,7 @@
   prevLink: "/2020/03/30"
   nextLink: "/2020/01/04"
   covers:
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-03-31"
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/03/31/eu310320_a1-01.pdf"
       imageUrl: "/assets/images/el-universal/2020-03-31.jpg"
     - link: "https://www.jornada.com.mx/2020/03/31/portada.pdf"
       imageUrl: "/assets/images/la-jornada/2020-03-31.jpg"
