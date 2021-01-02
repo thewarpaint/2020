@@ -19,6 +19,46 @@
       href="/assets/main.css"
       rel="stylesheet"
     >
+
+    <!-- Twitter meta tags -->
+    <meta
+      name="twitter:card"
+      content="summary"
+    >
+    <meta
+      name="twitter:title"
+      content="{{ dayData.title }}"
+    >
+    <meta
+      name="twitter:description"
+      content="{{ dayData.description }}"
+    >
+    <meta
+      name="twitter:image"
+      content="{{ dayData.covers.first.imageUrl }}"
+    >
+
+    <!-- Open Graph (Facebook) meta tags -->
+    <meta
+      property="og:title"
+      content="{{ dayData.title }}"
+    >
+    <meta
+      property="og:description"
+      content="{{ dayData.description }}"
+    >
+    <meta
+      property="og:type"
+      content="website"
+    >
+    <meta
+      property="og:url"
+      content="https://dosmilveinte.mx/"
+    >
+    <meta
+      property="og:image"
+      content="{{ dayData.covers.first.imageUrl }}"
+    >
   </head>
 
   <body>
