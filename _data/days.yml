@@ -7,7 +7,7 @@
   covers:
     - link: "https://www.reforma.com/libre/online07/aplicacionei/Pagina.html?seccion=primera&fecha=20200101"
       imageUrl: "/assets/images/reforma/2020-01-01.jpg"
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-01"
+    - link: "https://cdn2.excelsior.com.mx/Periodico/flip-nacional/01-01-2020/portada.pdf"
       imageUrl: "/assets/images/excelsior/2020-01-01.jpg"
 "2020-01-02":
   title: "dosmilveinte.mx - enero 2"
@@ -22,7 +22,7 @@
       imageUrl: "/assets/images/la-jornada/2020-01-02.jpg"
     - link: "https://www.reforma.com/libre/online07/aplicacionei/Pagina.html?seccion=primera&fecha=20200102"
       imageUrl: "/assets/images/reforma/2020-01-02.jpg"
-    - link: "https://tar.mx/periodicos-mexico/?fecha=2020-01-02"
+    - link: "https://cdn2.excelsior.com.mx/Periodico/flip-nacional/02-01-2020/portada.pdf"
       imageUrl: "/assets/images/excelsior/2020-01-02.jpg"
 "2020-01-03":
   title: "dosmilveinte.mx - enero 3"
