@@ -202,6 +202,21 @@
       imageUrl: "/assets/images/reforma/2020-01-14.jpg"
     - link: "https://cdn2.excelsior.com.mx/Periodico/flip-nacional/14-01-2020/portada.pdf"
       imageUrl: "/assets/images/excelsior/2020-01-14.jpg"
+"2020-01-15":
+  title: "dosmilveinte.mx - enero 15"
+  description: "Las portadas de los periódicos mexicanos el 15 de enero de 2020"
+  dayString: "15 de enero"
+  prevLink: "/2020/01/14"
+  nextLink: "/2020/01/16"
+  covers:
+    - link: "https://www.eluniversal.com.mx/sites/default/files/edicion_impresa/2020/01/15/eu150120_a1-01.pdf"
+      imageUrl: "/assets/images/el-universal/2020-01-15.jpg"
+    - link: "https://www.jornada.com.mx/2020/01/15/portada.pdf"
+      imageUrl: "/assets/images/la-jornada/2020-01-15.jpg"
+    - link: "https://www.reforma.com/libre/online07/aplicacionei/Pagina.html?seccion=primera&fecha=20200115"
+      imageUrl: "/assets/images/reforma/2020-01-15.jpg"
+    - link: "https://cdn2.excelsior.com.mx/Periodico/flip-nacional/15-01-2020/portada.pdf"
+      imageUrl: "/assets/images/excelsior/2020-01-15.jpg"
 "2020-03-31":
   title: "dosmilveinte.mx - marzo 31"
   description: "Las portadas de los periódicos mexicanos el 31 de marzo de 2020"
